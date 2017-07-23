@@ -1,3 +1,9 @@
+indicator-application (12.10.2+ubports) zesty; urgency=medium
+
+  * Imported to UBports
+
+ -- UBports auto importer <infra@ubports.com>  Sun, 23 Jul 2017 17:53:11 +0200
+
 indicator-application (12.10.1+17.04.20161028-0ubuntu1) zesty; urgency=medium
 
   * Hide 'Indicator Application' from Startup Applications (LP:
