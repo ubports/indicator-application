@@ -1,3 +1,9 @@
+indicator-application (12.10.2+ubports1) xenial; urgency=medium
+
+  * Update jenkinsfile for xenial
+
+ -- Dan Chapman <dan@ubports.com>  Thu, 11 Jan 2018 10:30:16 +0000
+
 indicator-application (12.10.2+ubports) vivid; urgency=medium
 
   * Imported to UBports
